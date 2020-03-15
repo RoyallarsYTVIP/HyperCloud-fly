@@ -1,6 +1,6 @@
 <?php
 
-namespace FlySystem\Aleondev;
+namespace HyperFly\Royallars;
 
 use pocketmine\Server;
 use pocketmine\plugin\PluginBase;
