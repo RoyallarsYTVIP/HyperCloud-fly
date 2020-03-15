@@ -1,10 +1,10 @@
-name: FlySystem
-main: FlySystem\Aleondev\Main
+name: HyperFly
+main: HyperFly\Royallars\Main
 api: [3.0.0, 4.0.0]
 version: 1.0
-author: Aleondev
+author: Royallars
 
 commands:
  fly:
-  description: §7>> §eFly §7by Aleondev
-  permission: fly.system
+  description: §e>> §eFly §6by Royallars
+  permission: fly.Hyper
