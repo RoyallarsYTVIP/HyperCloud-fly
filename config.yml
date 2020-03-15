@@ -1,0 +1,9 @@
+#Config by Aleondev
+
+#config.yml Config
+
+#Fly Enable
+Fly.True: "§a Enable" 
+
+#Fly Disable
+Fly.False: "§cDisable"
