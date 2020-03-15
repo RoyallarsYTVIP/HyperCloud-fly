@@ -1,9 +1,9 @@
-#Config by Aleondev
+#Config by Royallars
 
 #config.yml Config
 
 #Fly Enable
-Fly.True: "§a Enable" 
+Fly.True: "§a an" 
 
 #Fly Disable
-Fly.False: "§cDisable"
+Fly.False: "§c aus"
